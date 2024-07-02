@@ -1,0 +1,71 @@
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.csproj.AssemblyReference.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_MarkupCompile.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_MarkupCompile.lref
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.exe
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.deps.json
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.runtimeconfig.json
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.dll
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.pdb
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\App.baml
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.g.resources
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.AssemblyInfoInputs.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.AssemblyInfo.cs
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.csproj.CoreCompileInputs.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.dll
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\refint\ProjektSnake.dll
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.pdb
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.genruntimeconfig.cache
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ref\ProjektSnake.dll
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\Assets\Eating-Sound.wav
+C:\Users\bbzwadmin\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_Content.g.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.exe
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\Assets\Eating-Sound.wav
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.deps.json
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.runtimeconfig.json
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.dll
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.pdb
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.csproj.AssemblyReference.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_Content.g.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_MarkupCompile.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_MarkupCompile.lref
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\App.baml
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.g.resources
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.AssemblyInfo.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.dll
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\refint\ProjektSnake.dll
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.pdb
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.genruntimeconfig.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\IPT 2.1\Projekt 2023\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ref\ProjektSnake.dll
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.exe
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\Assets\Eating-Sound.wav
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.deps.json
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.runtimeconfig.json
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.dll
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\bin\Debug\net6.0-windows\ProjektSnake.pdb
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_Content.g.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_MarkupCompile.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake_MarkupCompile.lref
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\App.baml
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.g.resources
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.AssemblyInfoInputs.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.AssemblyInfo.cs
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.csproj.CoreCompileInputs.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.dll
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\refint\ProjektSnake.dll
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.pdb
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ProjektSnake.genruntimeconfig.cache
+C:\Users\laura\OneDrive - sluz\Dokumente\BBZW Sursee\Projekte\SnakeGame\ProjektSnake\ProjektSnake\ProjektSnake\obj\Debug\net6.0-windows\ref\ProjektSnake.dll

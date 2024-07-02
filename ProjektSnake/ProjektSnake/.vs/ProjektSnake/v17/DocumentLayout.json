@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\mediaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\images.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\gridvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\projektsnake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\projektsnake.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|c:\\users\\laura\\onedrive - sluz\\dokumente\\bbzw sursee\\projekte\\snakegame\\projektsnake\\projektsnake\\projektsnake\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F47D640-8ECC-466C-B32E-02E0CEE24278}|ProjektSnake\\ProjektSnake.csproj|solutionrelative:projektsnake\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1656527415:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1293149942:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1335678109:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1250644387:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1509397881:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProjektSnake\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAA2wDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridValue.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\GridValue.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\GridValue.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\GridValue.cs",
+              "RelativeToolTip": "ProjektSnake\\GridValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\Direction.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\Direction.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\Direction.cs",
+              "RelativeToolTip": "ProjektSnake\\Direction.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\App.xaml.cs",
+              "RelativeToolTip": "ProjektSnake\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\App.xaml",
+              "RelativeDocumentMoniker": "ProjektSnake\\App.xaml",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\App.xaml",
+              "RelativeToolTip": "ProjektSnake\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T12:49:12.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Images.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\Images.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\Images.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\Images.cs",
+              "RelativeToolTip": "ProjektSnake\\Images.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MediaPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\MediaPlayer.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\MediaPlayer.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\MediaPlayer.cs",
+              "RelativeToolTip": "ProjektSnake\\MediaPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\GameState.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\GameState.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\GameState.cs",
+              "RelativeToolTip": "ProjektSnake\\GameState.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAwwIQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProjektSnake\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\MainWindow.xaml",
+              "RelativeToolTip": "ProjektSnake\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T12:49:12.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\Position.cs",
+              "RelativeDocumentMoniker": "ProjektSnake\\Position.cs",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\Position.cs",
+              "RelativeToolTip": "ProjektSnake\\Position.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T12:49:12.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjektSnake.csproj",
+              "DocumentMoniker": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\ProjektSnake.csproj",
+              "RelativeDocumentMoniker": "ProjektSnake\\ProjektSnake.csproj",
+              "ToolTip": "C:\\Users\\laura\\OneDrive - sluz\\Dokumente\\BBZW Sursee\\Projekte\\SnakeGame\\ProjektSnake\\ProjektSnake\\ProjektSnake\\ProjektSnake.csproj",
+              "RelativeToolTip": "ProjektSnake\\ProjektSnake.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T12:49:12.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
