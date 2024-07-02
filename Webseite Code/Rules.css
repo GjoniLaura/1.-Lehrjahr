@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ /* Command for every html Element*/
+  html {
+    height: 100%;
+    background-color: rgb(207, 207, 207);
+}
+ /* Command for every body Element*/
+  body{
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;   
+    background-position: center;
+} 
+  /* Command for every navigation Element*/
+  nav{
+    height: 90px;
+    width: 100%;
+    background-color: black;
+
+    box-shadow: 0px 2px 4px rgb(34, 33, 33);
+    position: relative;
+  }
+ /* Command for every unordered list in the navigation Element*/
+  nav ul {
+    float: right;
+}
+ /* Command for every list item in the navigation Element*/
+  nav li {
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+ /* Command for the font in the navigation Element*/
+  nav li a {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+ /* Command for the color of the font on the current page*/
+  nav ul li .link {
+    color: rgb(215, 143, 11);
+}
+ /* Command for the logoimage in the navigation Element*/
+  nav img {
+    height: 45px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;   
+    background-position: top;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.background-rules {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;   
+    background-position: center; 
+}
+
+.background-players {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;   
+  background-position: center; 
+}
+
+.grid-rules {
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.grid-rules-1 {
+  grid-column: 1 / span 1;
+  grid-row: 1 / span 3; 
+  align-items: center;
+  border: 4px solid #625b4e;
+}
+
+.grid-rules-2 {
+  margin-left:10px;
+  margin-right:25px;
+  font-size: 24px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  grid-column: 2 / span 2;
+  grid-row: 1 / span 3;
+  align-items: center,
+}

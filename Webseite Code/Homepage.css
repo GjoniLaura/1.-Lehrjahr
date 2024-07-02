@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ /* Command for every html Element*/
+  html {
+    height: 100%;
+    background-color: rgb(207, 207, 207);
+}
+ /* Command for every body Element*/
+  body{
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;   
+    background-position: center;
+} 
+  /* Command for every navigation Element*/
+  nav{
+    height: 90px;
+    width: 100%;
+    background-color: black;
+
+    box-shadow: 0px 2px 4px rgb(34, 33, 33);
+    position: relative;
+  }
+ /* Command for every unordered list in the navigation Element*/
+  nav ul {
+    float: right;
+}
+ /* Command for every list item in the navigation Element*/
+  nav li {
+    display: inline-block;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+ /* Command for the font in the navigation Element*/
+  nav li a {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
+ /* Command for the color of the font on the current page*/
+  nav ul li .link {
+    color: rgb(215, 143, 11);
+}
+ /* Command for the logoimage in the navigation Element*/
+  nav img {
+    height: 45px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;   
+    background-position: top;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.text-home {
+  font-size: 30px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ /* The next classes that start with .background are for the images on each tab */
+ .background-home {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;   
+  background-position: center;
+ }
+
+/* The next classes that start with .grid are for the images on each tab when you scroll down */  
+.grid-homepage {
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.grid-home-1 {
+  grid-column: 2 / span 3;
+  grid-row: 1 / span 3; 
+  align-items: center;
+}
+
+.grid-home-2 {
+  box-shadow: 4px 2px 4px rgb(0, 0, 0);
+  grid-column: 1 / span 5;
+  grid-row: 3 / span 4;
+}
